@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I’m Tomoaki Uro
+- I'm Tomoaki Uro
 - I'm Birthday 1996/03/08
 - I'm backend & frontend engineer
 - I'm currently learning Next.js & Rust
@@ -82,3 +82,8 @@
 | 2019/06 | 日本商工会議所簿記検定試験 3級                |
 | 2020/10 | 全国経理教育協会 消費税法能力検定試験 2級     |
 | 2023/08 | AWS Certified Solutions Architect - Associate |
+
+
+## SNS
+- [X](https://x.com/TomoakiUro84430)
+- [Zenn](https://zenn.dev/u_tomoaki)

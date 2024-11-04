@@ -85,5 +85,5 @@
 
 
 ## SNS
-- [X](https://x.com/TomoakiUro84430)
+- [X](https://x.com/Asu_tom96)
 - [Zenn](https://zenn.dev/u_tomoaki)

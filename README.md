@@ -85,5 +85,19 @@
 
 
 ## SNS
-- [X](https://x.com/Asu_tom96)
-- [Zenn](https://zenn.dev/u_tomoaki)
+### [GitHub](https://github.com/uTomoaki)
+<p align="left">
+    <a href="https://github.com/uTomoaki"><img src="https://komarev.com/ghpvc/?username=uTomoaki"/></a>
+    <a href="https://github.com/uTomoaki"><img height="20" src="https://img.shields.io/github/followers/uTomoaki?label=follow&logo=github&style=flat" /></a>
+</p>
+
+### [X](https://x.com/Asu_tom96)
+<p align="left">
+      <a href="http://x.com/Asu_tom96"><img height="20" src="https://img.shields.io/twitter/follow/Asu_tom96?style=flat&logo=x" /></a>
+</p>
+
+### [Zenn](https://zenn.dev/u_tomoaki)
+<p align="left">
+    <a href="https://zenn.dev/u_tomoaki"><img src="https://badgen.org/img/zenn/u_tomoaki/articles?style=flat" alt="Articles" /></a>
+    <a href="https://zenn.dev/u_tomoaki"><img src="https://badgen.org/img/zenn/u_tomoaki/likes?style=flat" alt="Likes" /></a>
+</p>

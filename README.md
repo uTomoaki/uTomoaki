@@ -10,8 +10,6 @@
 
 #### Language(Framework)
 <section>
-    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=php" />
-    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=laravel" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react" />
@@ -19,12 +17,17 @@
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=nodejs" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=prisma" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=jest" />
-    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java" />
-    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=spring" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=css" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=scss" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=tailwind" />
+</section>
+
+<section>
+    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=php" />
+    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=laravel" />
+    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java" />
+    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=spring" />
 </section>
 
 #### DB

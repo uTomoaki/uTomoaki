@@ -8,7 +8,7 @@
 
 ### Work experience
 
-#### language(Framework)
+#### Language(Framework)
 <section>
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=php" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=laravel" />
@@ -58,7 +58,7 @@
 
 ### Studying
 
-#### language(Framework)
+#### Language(Framework)
 <section>
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=rust" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go" />

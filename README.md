@@ -21,6 +21,7 @@
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=css" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=scss" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=tailwind" />
+    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=materialui" />
 </section>
 
 <section>
@@ -42,18 +43,23 @@
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=git" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=githubactions" />
+</section>
+
+<section>
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=kubernetes" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=aws" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=linux" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ubuntu" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=redhat" />
-    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=materialui" />
+</section>
+
+<section>
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=bitbucket" />
-    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=eclipse" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=gradle" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vite" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode" />
+    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=eclipse" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=figma" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=postman" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=discord" />

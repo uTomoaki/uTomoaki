@@ -43,6 +43,7 @@
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=git" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=githubactions" />
+    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=bitbucket" />
 </section>
 
 <section>
@@ -55,7 +56,6 @@
 </section>
 
 <section>
-    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=bitbucket" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=gradle" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vite" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode" />

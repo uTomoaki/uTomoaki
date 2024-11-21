@@ -106,7 +106,3 @@
 </p>
 
 ### [Zenn](https://zenn.dev/u_tomoaki)
-<p align="left">
-    <a href="https://zenn.dev/u_tomoaki"><img src="https://badgen.org/img/zenn/u_tomoaki/articles?style=flat" alt="Articles" /></a>
-    <a href="https://zenn.dev/u_tomoaki"><img src="https://badgen.org/img/zenn/u_tomoaki/likes?style=flat" alt="Likes" /></a>
-</p>

@@ -29,6 +29,7 @@
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=laravel" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java" />
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=spring" />
+    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go" />
 </section>
 
 #### DB
@@ -70,7 +71,6 @@
 #### Language(Framework)
 <section>
     <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=rust" />
-    <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go" />
 </section>
 
 #### Others
